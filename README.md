@@ -1,6 +1,3 @@
----
-
-```markdown
 # API de Usuarios
 
 Este repositorio contiene una API desarrollada en Flask para la gestión de usuarios. La API incluye funcionalidades CRUD (Crear, Leer, Actualizar, Eliminar) y cuenta con documentación generada automáticamente mediante Swagger/OpenAPI.
